@@ -5,3 +5,4 @@
   - [x] Abstract Factory
   - [x] Decorator
   - [x] Observer
+  - [x] Bridge
