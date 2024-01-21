@@ -4,3 +4,4 @@
 
   - [x] Abstract Factory
   - [x] Decorator
+  - [x] Observer
