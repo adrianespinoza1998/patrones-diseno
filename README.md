@@ -7,3 +7,4 @@
   - [x] Observer
   - [x] Bridge
   - [x] Builder
+  - [x] Factory Method 
