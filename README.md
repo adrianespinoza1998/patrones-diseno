@@ -6,3 +6,4 @@
   - [x] Decorator
   - [x] Observer
   - [x] Bridge
+  - [x] Builder
