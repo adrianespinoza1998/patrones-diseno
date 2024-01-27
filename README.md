@@ -9,3 +9,4 @@
   - [x] Builder
   - [x] Factory Method 
   - [x] Adapter 
+  - [x] Strategy 
