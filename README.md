@@ -7,6 +7,8 @@
   - [x] Observer
   - [x] Bridge
   - [x] Builder
+  - [x] Factory 
   - [x] Factory Method 
   - [x] Adapter 
-  - [x] Strategy 
+  - [x] Strategy
+  - [x] Prototype  
