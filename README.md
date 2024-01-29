@@ -12,3 +12,4 @@
   - [x] Adapter 
   - [x] Strategy
   - [x] Prototype  
+  - [x] Singleton  

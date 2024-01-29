@@ -15,8 +15,4 @@ export class Rectangle extends Shape {
     this.width = width;
     this.height = height;
   }
-
-  clone(): this {
-    return this;
-  }
 }
