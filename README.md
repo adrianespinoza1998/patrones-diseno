@@ -12,4 +12,5 @@
   - [x] Adapter 
   - [x] Strategy
   - [x] Prototype  
-  - [x] Singleton  
+  - [x] Singleton
+  - [x] Composite   
