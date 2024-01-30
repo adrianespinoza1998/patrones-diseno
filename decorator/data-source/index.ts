@@ -1,5 +1,5 @@
 import { CompressionDecorator } from "./CompressionDecorator";
-import { FileDataSource } from "./FileDatasource";
+import { FileDataSource } from "./FileDataSource";
 
 const source = new FileDataSource();
 source.writeData("data");

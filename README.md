@@ -13,4 +13,5 @@
   - [x] Strategy
   - [x] Prototype  
   - [x] Singleton
-  - [x] Composite   
+  - [x] Composite
+  - [x] Facade    
