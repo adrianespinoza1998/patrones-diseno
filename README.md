@@ -14,4 +14,5 @@
   - [x] Prototype  
   - [x] Singleton
   - [x] Composite
-  - [x] Facade    
+  - [x] Facade
+  - [x] Flyweight
