@@ -16,3 +16,4 @@
   - [x] Composite
   - [x] Facade
   - [x] Flyweight
+  - [x] Proxy 
