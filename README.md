@@ -18,3 +18,4 @@
   - [x] Flyweight
   - [x] Proxy
   - [x] Chain of Responsibility 
+  - [x] Command
