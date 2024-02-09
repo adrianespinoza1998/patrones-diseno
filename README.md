@@ -16,4 +16,5 @@
   - [x] Composite
   - [x] Facade
   - [x] Flyweight
-  - [x] Proxy 
+  - [x] Proxy
+  - [x] Chain of Responsibility 
