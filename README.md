@@ -21,3 +21,4 @@
   - [x] Command
   - [x] Interpreter
   - [x] Mediator
+  - [x] Memento 
