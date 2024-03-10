@@ -22,3 +22,4 @@
   - [x] Interpreter
   - [x] Mediator
   - [x] Memento 
+  - [x] State 
